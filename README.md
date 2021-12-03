@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Pratik Jadhav</h1>
 <h3 align="center">Full-Stack Web Developer from India</h3>
 
+
+<h1> Welcome to my GITHUB profile.👋</h1>
+<h2>I'm <span style="color:blue">Pratik Jadhav</span> </h2>
+
+<!-- <img src="https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif" /> -->
+
+<!-- ![Night-Coding](https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif) -->
+
+<h3>About me: 👨🏽‍💻</h3>
+<p>From my childhood I was enthusiastic about mobile phones and electronics so I choose to be a computer Engineer.💻
+In my Diploma years, I introduced to C programming, where I run my first code which was Hello world.
+It was fun to see printing things on terminal, which are in my mind.
+After that I was introduced to HTML and CSS.
+when I see the output of first HTML file on browser, I fell in love with it.
+After completing my Engineering, for gaining more practical skill and learn the MERN stack, I joined the Masai School.
+In Masai School, I have completed hands on projects and gain knowledge about MERN stack.
+My tech stack includes HTML, CSS, JavaScript, MongoDB, Express, React & NodeJS. </p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jadhavpratik1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jadhavpratik1/" height="30" width="40" /></a>
@@ -31,22 +51,6 @@ Front-end <br>
    </p>
 
 
-<h1>Hey there, Welcome to my GITHUB profile.👋</h1>
-<h2>I'm <span style="color:blue">Pratik Jadhav</span> </h2>
-
-<!-- <img src="https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif" /> -->
-
-<!-- ![Night-Coding](https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif) -->
-
-<h3>About me: 👨🏽‍💻</h3>
-<p>From my childhood I was enthusiastic about mobile phones and electronics so I choose to be a computer Engineer.💻
-In my Diploma years, I introduced to C programming, where I run my first code which was Hello world.
-It was fun to see printing things on terminal, which are in my mind.
-After that I was introduced to HTML and CSS.
-when I see the output of first HTML file on browser, I fell in love with it.
-After completing my Engineering, for gaining more practical skill and learn the MERN stack, I joined the Masai School.
-In Masai School, I have completed hands on projects and gain knowledge about MERN stack.
-My tech stack includes HTML, CSS, JavaScript, MongoDB, Express, React & NodeJS. </p>
 
 
 

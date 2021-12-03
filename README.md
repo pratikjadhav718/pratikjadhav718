@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer from India</h3>
 
 
-<h1> Welcome to my GITHUB profile.👋</h1>
+<h1> Welcome to my GITHUB profile.</h1>
 <h2>I'm <span style="color:blue">Pratik Jadhav</span> </h2>
 
 <!-- <img src="https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif" /> -->
@@ -29,6 +29,8 @@ My tech stack includes HTML, CSS, JavaScript, MongoDB, Express, React & NodeJS. 
  <a href="https://www.instagram.com/pratik__jadhav__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratikjadhav718" height="30" width="40" /></a>
 </p>
 
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 Front-end <br>
 <p align="left"> 
@@ -49,12 +51,7 @@ Front-end <br>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
    </p>
-
-
-
-
-
-
+ <br>
 
 
 <!-- <h3>Connect with me: 📝</h3>

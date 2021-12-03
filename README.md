@@ -19,7 +19,18 @@
 <!-- ![Night-Coding](https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif) -->
 
 <h3>About me: 👨🏽‍💻</h3>
-<p>I have a passion for programming and technology💻. I’m currently learning: MERN stack📚.</p>
+<p>From my childhood I was enthusiastic about mobile phones and electronics so I choose to be a computer Engineer.💻
+In my Diploma years, I introduced to C programming, where I run my first code which was Hello world.
+It was fun to see printing things on terminal, which are in my mind.
+After that I was introduced to HTML and CSS.
+when I see the output of first HTML file on browser, I fell in love with it.
+After completing my Engineering, for gaining more practical skill and learn the MERN stack, I joined the Masai School.
+In Masai School, I have completed hands on projects and gain knowledge about MERN stack.
+My tech stack includes HTML, CSS, JavaScript, MongoDB, Express, React & NodeJS. </p>
+
+
+
+
 
 
 <h3>Connect with me: 📝</h3>

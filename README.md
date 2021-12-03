@@ -53,7 +53,7 @@ My tech stack includes HTML, CSS, JavaScript, MongoDB, Express, React & NodeJS. 
 
 
 
-<h3>Connect with me: 📝</h3>
+<!-- <h3>Connect with me: 📝</h3>
 <div display="flex">
   <a href="https://www.linkedin.com/in/harshith-c/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -71,7 +71,7 @@ My tech stack includes HTML, CSS, JavaScript, MongoDB, Express, React & NodeJS. 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
+</div> -->
 
 
 <!-- <h3>Github Info ℹ️  </h3>
